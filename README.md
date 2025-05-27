@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jsongrapher-fee
 
 Home: https://github.com/AdityaSavara/jsongrapher-py
 
-Package license: Unlicense
+Package license: [BSD-3-Clause](https://github.com/conda-forge/jsongrapher-feedstock/blob/main/LICENSE.txt)
 
 Summary: The python version of JSONGrapher with tools for creating JSONGrapher Records.
 
