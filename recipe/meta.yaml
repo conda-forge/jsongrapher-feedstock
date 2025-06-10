@@ -36,7 +36,7 @@ about:
   home: https://github.com/AdityaSavara/jsongrapher-py
   summary: The python version of JSONGrapher with tools for creating JSONGrapher Records.
   license: BSD-3-Clause
-  license_file: LICENSE
+  license_file: LICENSE.txt
 
 extra:
   recipe-maintainers:
