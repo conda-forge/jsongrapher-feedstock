@@ -1,5 +1,5 @@
 {% set name = "jsongrapher" %}
-{% set version = "4.7" %}
+{% set version = "4.9" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/jsongrapher-{{ version }}.tar.gz
-  sha256: bf6a370f3337258aab96840f33f1d40fb99412f51b8aa30bf028af620d021101
+  sha256: d67dab592832afc284545fcc6d88c4e907441305be99496aef5ef37d7a5468ae
 
 build:
   noarch: python
